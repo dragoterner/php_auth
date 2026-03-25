@@ -1,6 +1,6 @@
 <?php
 // Разрешённый ID (для примера)
-$ALLOWED_ID = '12345';
+$ALLOWED_ID = '150rub';
 
 // Стартуем сессию
 session_start();
